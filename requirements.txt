@@ -8,3 +8,4 @@ ipywidgets
 catboost
 xgboost
 lightgbm
+numba
